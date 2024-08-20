@@ -1,0 +1,593 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 8549.599609375,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 722.94951485538786,
+            "y": 269.74476802301285
+          },
+          "nodeIndex": "ct_beneficiarios",
+          "nodeLineageTag": "c40b0a8c-3a18-4056-8c0a-b9dac8720b53",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1509.4411079029774,
+            "y": -10
+          },
+          "nodeIndex": "ct_dependencias",
+          "nodeLineageTag": "2b2d003f-df71-49c4-821a-e1cd9357a1d1",
+          "size": {
+            "height": 272,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 437.83602283736224,
+            "y": 486.93907411413147
+          },
+          "nodeIndex": "ct_domicilios",
+          "nodeLineageTag": "0339ee1a-7ca7-4ea9-b51b-c2612d5f5c02",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 247.12594976030857,
+            "y": 185.975791647974
+          },
+          "nodeIndex": "ct_estados_nuup",
+          "nodeLineageTag": "0da3d2d8-1be5-42fa-ad5c-da22b9c18eef",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1009.9794558197282,
+            "y": 59.058581362379073
+          },
+          "nodeIndex": "ct_estadosciviles",
+          "nodeLineageTag": "e6b7ff1d-41c2-4a4c-8f2b-31d27833802d",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 4623.4411079029778,
+            "y": 461.19309703519968
+          },
+          "nodeIndex": "ct_familias",
+          "nodeLineageTag": "c54595b1-e662-4eff-8c9d-b6f0250a3580",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 534.1507318926748,
+            "y": 14.116007224765099
+          },
+          "nodeIndex": "ct_generos",
+          "nodeLineageTag": "82246746-be2f-47e6-8f73-ca1c089238f8",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 190.5974381893983,
+            "y": 840.38619407039914
+          },
+          "nodeIndex": "ct_localidades_nuup",
+          "nodeLineageTag": "639dfe8a-d013-4b3c-ab94-83ce6952c48e",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 10,
+            "y": 515.14455194047855
+          },
+          "nodeIndex": "ct_municipios_nuup",
+          "nodeLineageTag": "0ac79350-fc81-4e96-9d16-d382534f7a79",
+          "size": {
+            "height": 272,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1409.997170699696,
+            "y": 312.58114121563767
+          },
+          "nodeIndex": "ct_programas",
+          "nodeLineageTag": "4db5ab18-7c17-458f-8149-b09dd3d3c9f1",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1124.4561918640829,
+            "y": 312.37536023602547
+          },
+          "nodeIndex": "ct_solicitudes",
+          "nodeLineageTag": "17b6277d-921f-411e-82f0-73f2823642cb",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 4907.4411079029778,
+            "y": 461.19309703519968
+          },
+          "nodeIndex": "etl_bitacora",
+          "nodeLineageTag": "a07ce658-ba5e-458d-8daa-78de5d970b4c",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 5181.4411079029778,
+            "y": 449.19309703519957
+          },
+          "nodeIndex": "diputaciones_candidaturas_2021",
+          "nodeLineageTag": "5ad509cc-98e5-4b9f-96df-3ea559bd34c9",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 5465.4411079029778,
+            "y": 399.19309703519957
+          },
+          "nodeIndex": "GOB_DIS_2022",
+          "nodeLineageTag": "b0e709fd-84df-438f-84be-9adbb7557a70",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 5749.4411079029778,
+            "y": 399.19309703519957
+          },
+          "nodeIndex": "GOB_ENT_2022",
+          "nodeLineageTag": "9fdd6328-a4e8-437c-9212-3445eb1ce4e3",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 6033.4411079029778,
+            "y": 399.19309703519957
+          },
+          "nodeIndex": "GOB_MUN_2022",
+          "nodeLineageTag": "a9e082fa-d51f-499a-986b-95505e6ab6c8",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 6317.4411079029778,
+            "y": 399.19309703519957
+          },
+          "nodeIndex": "GOB_SEC_2022",
+          "nodeLineageTag": "f759dc0d-f3e3-4a17-9286-7cf8799f482f",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 6601.4411079029778,
+            "y": 473.19309703519957
+          },
+          "nodeIndex": "INEGI_HAB_GENERO",
+          "nodeLineageTag": "d9e53e7f-22b6-4783-9719-105455e24aca",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 6885.4411079029778,
+            "y": 473.19309703519957
+          },
+          "nodeIndex": "INEGI_POBLACION",
+          "nodeLineageTag": "8b3bee30-17ee-43db-9938-a625c3081c60",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 7159.4411079029778,
+            "y": 449.19309703519957
+          },
+          "nodeIndex": "ct_fechas",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 7433.4411079029778,
+            "y": 485.19309703519957
+          },
+          "nodeIndex": "localidad_electoral_municipio",
+          "nodeLineageTag": "bfce61e1-0430-439e-866d-662a950218c8",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 7707.4411079029778,
+            "y": 401.19309703519957
+          },
+          "nodeIndex": "VW_VOTACIONES_GOB_DISTRITO_LOCAL",
+          "nodeLineageTag": "74b6c932-8db8-4247-a44a-6b0c70350f04",
+          "size": {
+            "height": 296,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 7981.4411079029778,
+            "y": 401.19309703519957
+          },
+          "nodeIndex": "B_C_FUNCIONARIOS",
+          "nodeLineageTag": "22319048-3e70-4184-b952-df15268c8390",
+          "size": {
+            "height": 296,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 8255.4411079029778,
+            "y": 449.19309703519957
+          },
+          "nodeIndex": "B_C_DISTRITOS_FEDERALES",
+          "nodeLineageTag": "8ac1b98f-c55c-4996-a668-037d16caf662",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 8539.4411079029778,
+            "y": 399.19309703519957
+          },
+          "nodeIndex": "diputaciones",
+          "nodeLineageTag": "de6326ec-65f6-4893-84fb-a835a7d20b2f",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 8823.4411079029778,
+            "y": 461.19309703519957
+          },
+          "nodeIndex": "VW_DISTRITO_GANADOR",
+          "nodeLineageTag": "85f4dbbd-283e-45eb-a14d-877d6797c191",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 9097.4411079029778,
+            "y": 449.19309703519957
+          },
+          "nodeIndex": "diputaciones_candidaturas_2021 (2)",
+          "nodeLineageTag": "c480b6a1-7979-4e69-9afd-2b972cb41f1f",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 9371.4411079029778,
+            "y": 399.19309703519957
+          },
+          "nodeIndex": "BENECIARIOS_SECCION_DISTRITO_MUNICIPIO",
+          "nodeLineageTag": "04612881-3348-4b58-a96e-2ca195515103",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 9655.4411079029778,
+            "y": 401.19309703519957
+          },
+          "nodeIndex": "CONCENTRADO",
+          "nodeLineageTag": "73fc41d1-1330-4a3f-bbf2-a919c746d034",
+          "size": {
+            "height": 296,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 9929.4411079029778,
+            "y": 413.19309703519957
+          },
+          "nodeIndex": "Vw_FAMILIAS_BENEFICIADAS",
+          "nodeLineageTag": "d2892180-bfe5-4bd8-a875-5c75617bdfbf",
+          "size": {
+            "height": 272,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 10203.441107902978,
+            "y": 461.19309703519957
+          },
+          "nodeIndex": "VW_PROGRAMA_BENEFICIARIO_UNICO",
+          "nodeLineageTag": "f878f283-d9fd-407d-a5e2-98e0f5fda240",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 10487.441107902978,
+            "y": 473.19309703519957
+          },
+          "nodeIndex": "VW_PROGRAMA_MAS_BENEFICIARIOS_HOMBRES",
+          "nodeLineageTag": "8d7bdc8d-80bb-4aae-bb59-da492dbbf465",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 10771.441107902978,
+            "y": 473.19309703519957
+          },
+          "nodeIndex": "VW_PROGRAMA_MAS_BENEFICIARIOS_MUJERES",
+          "nodeLineageTag": "f3879af4-55b1-4fda-a27c-9480feef9b18",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 11045.441107902978,
+            "y": 473.19309703519957
+          },
+          "nodeIndex": "VW_MAX_BENEFICIARIOS_PROGRAMA",
+          "nodeLineageTag": "4f01bd33-1805-436a-bb6c-384f6be1e7e1",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 11319.441107902978,
+            "y": 497.19309703519957
+          },
+          "nodeIndex": "VW_CURP_HIJO",
+          "nodeLineageTag": "d158eae0-007a-4060-b614-a0111067feef",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 11603.441107902978,
+            "y": 497.19309703519957
+          },
+          "nodeIndex": "VW_CURP_MAMA",
+          "nodeLineageTag": "bab61033-e0bc-4995-835e-76c01fe86eed",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 11887.441107902978,
+            "y": 485.19309703519957
+          },
+          "nodeIndex": "VW_FAMILIAS_CONTEO",
+          "nodeLineageTag": "1ce2ffa9-0901-4dca-b3e5-c40d468be3fa",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 12161.441107902978,
+            "y": 497.19309703519957
+          },
+          "nodeIndex": "VW_CURP_PAPA",
+          "nodeLineageTag": "72ae9dea-510f-4974-b196-c39c6e014ad2",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 12435.441107902978,
+            "y": 401.19309703519957
+          },
+          "nodeIndex": "VW_ENTODOSLOSPROGRAMA",
+          "nodeLineageTag": "080861b0-9fbb-4755-98d6-b0760d329656",
+          "size": {
+            "height": 296,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 12709.441107902978,
+            "y": 399.19309703519957
+          },
+          "nodeIndex": "VW_VOTANTE_DISTRITO_MUNICIPIO",
+          "nodeLineageTag": "b9fc5d6d-847f-4bcd-afec-ced758ef9dea",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 12993.441107902978,
+            "y": 449.19309703519957
+          },
+          "nodeIndex": "VW_VOTANTES_DISTRITO",
+          "nodeLineageTag": "e38cd622-059b-48b9-8dc3-61ad0d7a50c7",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 13277.441107902978,
+            "y": 399.19309703519957
+          },
+          "nodeIndex": "VW_VOTANTES_GOB_MUNICIPIO",
+          "nodeLineageTag": "c421ffc9-ac5f-43e5-af74-df8f3ce6bf8f",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 13561.441107902978,
+            "y": 437.19309703519957
+          },
+          "nodeIndex": "VW_VOTANTES_MUNICIPIO",
+          "nodeLineageTag": "c10a4507-a100-498f-a4df-baa96606bd3f",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 13835.441107902978,
+            "y": 425.19309703519957
+          },
+          "nodeIndex": "VW_MUNICIPIOS_POR_DISTRITOS",
+          "nodeLineageTag": "87dbe95d-e697-4fc7-a8b1-13449f6e0151",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}
